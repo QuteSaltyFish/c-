@@ -1,0 +1,1 @@
+(1,2, the Value is:31)	(2,3, the Value is:67)	(2,4, the Value is:92)	
